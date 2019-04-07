@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
 
-        System.out.println( "Hello World! i am lily, dev in master v0.7, modify in github" );
+        System.out.println( "Hello World! i am lily,  modify in github" );
     }
 }
